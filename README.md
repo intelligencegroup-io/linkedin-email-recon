@@ -28,7 +28,7 @@ A Python-based GUI tool to perform LinkedIn recon and generate company email add
 ### 📦 Setup
 
 ```bash
-git clone https://github.com/yourusername/linkedin-email-recon.git
+git clone https://github.com/intelligencegroup-io/linkedin-email-recon.git
 cd linkedin-email-recon
 
 python3 -m venv venv
@@ -52,7 +52,7 @@ python3 linkedin-email-recon.py
 2. Launch browser → Log in manually → Scroll to load all names
 3. Return to GUI and click **Scrape Names**
 4. Select valid names from the list
-5. Enter a domain (e.g. `company.com`) and choose a format
+5. Enter a domain (e.g. `example.com`) and choose a format
 6. Preview the generated emails
 7. Export the final list to CSV
 
@@ -61,9 +61,9 @@ python3 linkedin-email-recon.py
 ## 📂 Example Output
 
 ```
-John Doe <john.doe@company.com>
-Jane Doe <jane.doe@company.com>
-J Doe <j.doe@company.com>
+John Doe <john.doe@example.com>
+Jane Doe <jane.doe@example.com>
+J Doe <j.doe@example.com>
 ```
 
 ---
