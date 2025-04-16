@@ -6,7 +6,7 @@ A Python-based GUI tool to perform LinkedIn recon and generate company email add
 
 ### 🎥 Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/MER4SmB3i6M/maxresdefault.jpg)](https://www.youtube.com/watch?v=MER4SmB3i6M)
+![LinkedIn Email Recon Demo](linkedin-email-recon.gif)
 
 ---
 
