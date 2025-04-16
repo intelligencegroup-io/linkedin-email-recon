@@ -2,6 +2,14 @@
 
 A Python-based GUI tool to perform LinkedIn recon and generate company email addresses from employee name lists. Ideal for red teams, OSINT professionals, and penetration testers.
 
+---
+
+### 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/MER4SmB3i6M/maxresdefault.jpg)](https://www.youtube.com/watch?v=MER4SmB3i6M)
+
+---
+
 ## 🔍 What It Does
 
 - Extracts employee names from a LinkedIn company "People" page
